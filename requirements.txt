@@ -8,6 +8,7 @@ requests
 librosa==0.8.0
 streamlit
 tensorflow-cpu
+streamlit_option_menu
 
 # numpy
 # pandas==1.2.4
