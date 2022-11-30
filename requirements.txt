@@ -7,7 +7,7 @@ plotly
 requests
 librosa==0.8.0
 streamlit
-tensorflow-cpu==2.4.1
+tensorflow-cpu
 
 # numpy
 # pandas==1.2.4
