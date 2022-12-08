@@ -257,7 +257,7 @@ def main():
                     fig = plt.figure(figsize=(10, 2))
                     fig.set_facecolor('#d1d1e0')
                     plt.title("Wave-form")
-                    librosa.display.waveshow(wav, sr=44100)
+                    librosa.display.waveplot(wav, sr=44100)
                     plt.gca().axes.get_yaxis().set_visible(False)
                     plt.gca().axes.get_xaxis().set_visible(False)
                     plt.gca().axes.spines["right"].set_visible(False)
