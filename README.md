@@ -108,3 +108,27 @@ Our result - the waves coefficients (MFCCS)
 
 ## Our Approach to Speech Emotion Recognition
 
+<p align="center">
+    <img src="images/ourapproach.png">
+</p>
+The speech emotion recognition pipeline was built the following way :
+
+
+- `1) Voice recording`
+
+- `2) Audio signal discretization`
+
+- `3) Log-mel-spectrogram extraction`
+
+- `4) Split spectrogram using a rolling window`
+
+- `5) Make a prediction using our pre-trained model`
+
+The first term we’re going to talk about is the Sound Wave. Sound could be defined as a mechanical disturbance that propagates through an elastic material medium, such as air. It propagates in longitudinal waves (hence the term ‘Sound Waves’) and consists of alternating compressions and rarefactions, or regions of high pressure and low pressure, moving at a certain speed. The way our bodies able to create Sound Waves originates in our Glottal Pulse, which manipulates the folds of our vocal cords when we’re speaking. That is obviously very helpful for generating sounds but wouldn’t be enough to actually make sense of them, let alone communicate with each other. To accomplish that, we have our Vocal Tract.
+
+The Vocal Tract is a term that describes a system of different organs in our mouth and throat- Nasal cavity, the tip of the tongue, teeth, soft palate and more. The goal of this system is to serve as a filter to our Glottal Pulse in a way that makes sense of the different sounds we’re generating. To make things easier, we can say that our speech is a result of the different movements and manipulations we’re applying on our Glottal Pulse using our Vocal Tract.
+
+We have categorized Audios on 7 parameters as shown below:
+<p align="center">
+    <img src="images/emotions.png">
+</p>
