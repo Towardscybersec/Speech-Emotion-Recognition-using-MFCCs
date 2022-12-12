@@ -7,7 +7,7 @@ LIVE PROJECT: https://krishnaone-speech-emotion-recognition-using-mfccs-app2-d4o
 
 ## Acknowledgement
 
-I am deeply indebted to our project and training supervisor Mr. Arvind Kumar, Associate Professor, Department of CSE, SRM University, Delhi-NCR. His scholarly guidance, important suggestions, endless patience, constant supervision, valuable criticism and enormous amount of work for going through our drafts and correcting them and generating courage from the beginning to the end of research work has made the completion of the project possible.
+I am deeply indebted to our project and training supervisor [Mr. Arvind Kumar](https://www.linkedin.com/in/dr-arvind-kumar-05a14136/), Associate Professor, Department of CSE, SRM University, Delhi-NCR. His scholarly guidance, important suggestions, endless patience, constant supervision, valuable criticism and enormous amount of work for going through our drafts and correcting them and generating courage from the beginning to the end of research work has made the completion of the project possible.
 
 ## Introduction
 
