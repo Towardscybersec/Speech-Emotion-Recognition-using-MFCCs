@@ -48,7 +48,7 @@ EDA is all about making sense of raw data.
 </p>
 
 
-## Convolutional Neural Network
+## Convolutional Neural Network(CNN)
 
 The construction of a convolutional neural network is a multi-layered feed-forward neural network, made by assembling many unseen layers on top of each other in a particular order. It is the sequential design that give permission to CNN to learn hierarchical attributes. In CNN, some of them followed by grouping layers and hidden layers are typically convolutional layers followed by activation layers. The pre-processing needed in a ConvNet is kindred to that of the related pattern of neurons in the human brain and was motivated by the organization of the Visual Cortex.
 
@@ -85,7 +85,7 @@ Our result - the waves coefficients (MFCCS)
     <img width="50%" src="images/MFCCs.jpg">
 </p>
 
-## Comparision of Research paper on Speech Emotion Recognition
+## Comparision of Research Papers on Speech Emotion Recognition
 
 <p align="center">
     <img src="images/R1.png">
@@ -104,4 +104,7 @@ Our result - the waves coefficients (MFCCS)
 </p>
 
 <div dir="rtl">[IEEE September 4, 2019] R. A. Khalil et al.: SER Using Deep Learning Techniques: A Review</div>
+
+
+## Our Approach to Speech Emotion Recognition
 
