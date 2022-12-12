@@ -108,9 +108,7 @@ Our result - the waves coefficients (MFCCS)
 
 ## Our Approach to Speech Emotion Recognition
 
-<p align="center">
-    <img src="images/ourapproach.png">
-</p>
+
 The speech emotion recognition pipeline was built the following way :
 
 
