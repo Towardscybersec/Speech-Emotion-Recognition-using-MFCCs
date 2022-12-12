@@ -85,27 +85,6 @@ Our result - the waves coefficients (MFCCS)
     <img width="50%" src="images/MFCCs.jpg">
 </p>
 
-## Comparision of Research Papers on Speech Emotion Recognition
-
-<p align="center">
-    <img src="images/R1.png">
-</p>
-
-<p align="center">
-    <img src="images/R2.png">
-</p>
-
-<p align="center">
-    <img src="images/R3.png">
-</p>
-
-<p align="center">
-    <img src="images/R4.png">
-</p>
-
-<div dir="rtl">[IEEE September 4, 2019] R. A. Khalil et al.: SER Using Deep Learning Techniques: A Review</div>
-
-
 ## Our Approach to Speech Emotion Recognition
 
 
@@ -130,3 +109,26 @@ We have categorized Audios on 7 parameters as shown below:
 <p align="center">
     <img src="images/emotions.png">
 </p>
+
+
+## Comparision of Research Papers on Speech Emotion Recognition
+
+<p align="center">
+    <img src="images/R1.png">
+</p>
+
+<p align="center">
+    <img src="images/R2.png">
+</p>
+
+<p align="center">
+    <img src="images/R3.png">
+</p>
+
+<p align="center">
+    <img src="images/R4.png">
+</p>
+
+<div dir="rtl">[IEEE September 4, 2019] R. A. Khalil et al.: SER Using Deep Learning Techniques: A Review</div>
+
+
