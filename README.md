@@ -1,5 +1,5 @@
 ![High Level Overview](images/SERs.png)
-# Speech-Emotion-Recognition-using-MFCCs
+# Language-Independent-Speech-Emotion-Recognition-using-MFCCs
 
 LIVE PROJECT: https://krishnaone-speech-emotion-recognition-using-mfccs-app2-d4oz1s.streamlit.app/
 
